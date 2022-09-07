@@ -1,0 +1,134 @@
+{
+  "title": "Battle Royale",
+  "version": "1.0.0",
+  "packs": [
+    {
+      "label": "DDB Spells",
+      "name": "ddb-battle-royale-spells",
+      "type": "Item",
+      "path": "packs/ddb-battle-royale-spells.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "DDB Items",
+      "name": "ddb-battle-royale-items",
+      "type": "Item",
+      "path": "packs/ddb-battle-royale-items.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "DDB Monsters",
+      "name": "ddb-battle-royale-monsters",
+      "type": "Actor",
+      "path": "packs/ddb-battle-royale-monsters.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "DDB Feats",
+      "name": "ddb-battle-royale-feats",
+      "type": "Item",
+      "path": "packs/ddb-battle-royale-feats.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "DDB Class Features",
+      "name": "ddb-battle-royale-class-features",
+      "type": "Item",
+      "path": "packs/ddb-battle-royale-class-features.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "DDB Classes",
+      "name": "ddb-battle-royale-classes",
+      "type": "Item",
+      "path": "packs/ddb-battle-royale-classes.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "DDB Racial Traits",
+      "name": "ddb-battle-royale-racial-traits",
+      "type": "Item",
+      "path": "packs/ddb-battle-royale-racial-traits.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "DDB Races",
+      "name": "ddb-battle-royale-races",
+      "type": "Item",
+      "path": "packs/ddb-battle-royale-races.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "DDB Override",
+      "name": "ddb-battle-royale-override",
+      "type": "Item",
+      "path": "packs/ddb-battle-royale-override.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "DDB Tables",
+      "name": "ddb-battle-royale-tables",
+      "type": "RollTable",
+      "path": "packs/ddb-battle-royale-tables.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "DDB Backgrounds",
+      "name": "ddb-battle-royale-backgrounds",
+      "type": "Item",
+      "path": "packs/ddb-battle-royale-backgrounds.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "DDB Subclasses",
+      "name": "ddb-battle-royale-subclasses",
+      "type": "Item",
+      "path": "packs/ddb-battle-royale-subclasses.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "DDB Vehicles",
+      "name": "ddb-battle-royale-vehicles",
+      "type": "Actor",
+      "path": "packs/ddb-battle-royale-vehicles.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    }
+  ],
+  "system": "dnd5e",
+  "background": "maps/Four%20Elements%20Arena%20(with%20water).png",
+  "coreVersion": "10.284",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "2.0.2",
+  "id": "battle-royale",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10.284"
+  }
+}
